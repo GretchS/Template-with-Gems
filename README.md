@@ -12,5 +12,4 @@ Rails App template with Gems installed:
 # Instructions:
 
 - Fork
-- Rename Gem : run in terminal
-  rails g rename:into New-Name
+- Rename Gem : rails g rename:into New-Name
