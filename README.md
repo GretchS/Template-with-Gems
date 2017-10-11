@@ -13,4 +13,4 @@ Rails App template with Gems installed:
 
 - Fork
 - Rename Gem : rails g rename:into New-Name
-https://github.com/morshedalam/rename
+- https://github.com/morshedalam/rename
